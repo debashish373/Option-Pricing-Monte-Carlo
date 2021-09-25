@@ -160,7 +160,7 @@ MC(S0,E,r,sigma,T,dt,100).plot()
 
 
     
-![png](output_8_1.png)
+![png](README_files/README_8_1.png)
     
 
 
@@ -178,7 +178,7 @@ plt.show()
 
 
     
-![png](output_9_1.png)
+![png](README_files/README_9_1.png)
     
 
 
@@ -207,7 +207,7 @@ plt.show()
 
 
     
-![png](output_10_1.png)
+![png](README_files/README_10_1.png)
     
 
 
@@ -471,7 +471,7 @@ plt.show()
 
 
     
-![png](output_18_2.png)
+![png](README_files/README_18_2.png)
     
 
 
@@ -578,7 +578,7 @@ plt.show()
 
 
     
-![png](output_21_2.png)
+![png](README_files/README_21_2.png)
     
 
 
@@ -659,7 +659,7 @@ plt.show()
 
 
     
-![png](output_24_2.png)
+![png](README_files/README_24_2.png)
     
 
 
@@ -722,7 +722,7 @@ plt.show()
 
 
     
-![png](output_26_1.png)
+![png](README_files/README_26_1.png)
     
 
 
@@ -801,7 +801,7 @@ plt.show()
 
 
     
-![png](output_29_2.png)
+![png](README_files/README_29_2.png)
     
 
 
@@ -866,7 +866,7 @@ plt.show()
 
 
     
-![png](output_31_1.png)
+![png](README_files/README_31_1.png)
     
 
 
