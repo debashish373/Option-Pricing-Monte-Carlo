@@ -1,0 +1,8 @@
+tqdm==4.62.1
+pandas
+numpy
+scipy
+seaborn
+matplotlib
+tabulate
+argparse
