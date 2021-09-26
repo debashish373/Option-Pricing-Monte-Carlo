@@ -18,7 +18,7 @@ Monte Carlo simulation is one of the numerical methods which can be used to pric
 A detailed notebook on the effect of various parameters can be found in the notebooks folder.
 
 #
-![Simulation of the prices of the underlying](README_8_1.png)
+![Simulation of the prices of the underlying](images/README_8_1.png)
 
 ## How to use the codes in this repository
 
