@@ -14,8 +14,11 @@ Monte Carlo simulation is one of the numerical methods which can be used to pric
 
 4. The average payoff is then discounted using the risk-free rate to get the option price.
 
+#
+A detailed notebook on the effect of various parameters can be found in the notebooks folder.
 
-# Monte Carlo approach to price Binary options
+#
+![Simulation of the prices of the underlying](README_8_1.png)
 
 ## How to use the codes in this repository
 
