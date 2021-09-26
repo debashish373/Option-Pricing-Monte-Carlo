@@ -19,12 +19,12 @@ Monte Carlo simulation is one of the numerical methods which can be used to pric
 
 ## How to use the codes in this repository
 
+#### To price an in-the-money Call option with the price of the underlying (S) at 100, the strike price (X) at 100, the risk-free rate (r) at 5%, the realized volatility (sigma) at 20%, the time to expiry of the option (T) at 1 year, the no. of simulations (N) at 100 and the timestep (dt) at 0.01, run the following code from the directory of the main.py file (src) 
+
 ```python
 pip install -r requirements.txt
 
 cd src
-
-To price an in-the-money Call option with the price of the underlying (S) at 100, the strike price (X) at 100, the risk-free rate (r) at 5%, the realized volatility (sigma) at 20%, the time to expiry of the option (T) at 1 year, the no. of simulations (N) at 100 and the timestep (dt) at 0.01, run the following code from the directory of the main.py file (src) 
 
 python main.py --option Call --S 120 --X 100 --r 0.05 --sigma 0.2 --T 1 --dt 0.01 --N 1000
 
